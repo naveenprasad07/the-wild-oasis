@@ -37,7 +37,6 @@
 ## 🌐 Live Demo
 
 Check out the live version of the Wild Oasis Cabin Booking App here:  
-[**Wild Oasis Booking App) 
 [**Wild Oasis Booking App**](https://the-wild-oasis-bookings-app.netlify.app/)
 
 
