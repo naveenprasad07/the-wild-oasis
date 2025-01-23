@@ -21,7 +21,6 @@
 - **TailwindCSS**: Modern, responsive design with minimal effort.
 
 ### **Backend**
-- **Java**: Robust backend using Spring Boot.
 - **Supabase**: Relational database for managing user, booking, and cabin data.
 
 ### **APIs**
