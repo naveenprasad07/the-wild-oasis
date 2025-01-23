@@ -28,13 +28,18 @@
 - **RESTful API**: Expose endpoints for all key functionalities like searching cabins, managing bookings, and user authentication.
 
 ### **Deployment**
-- **Frontend**: Deployed via Vercel/Netlify.
-- **Backend**: Hosted on Netlify/Heroku.
-- **Database**: Cloud-hosted MySQL/PostgreSQL on AWS RDS.
+- **Frontend**: Deployed via Netlify.
+- **Backend**: Hosted on Netlify.
+- **Database**: Supabase
 
 ---
 
 ## 🌐 Live Demo
 
 Check out the live version of the Wild Oasis Cabin Booking App here:  
+[**Wild Oasis Booking App) 
 [**Wild Oasis Booking App**](https://the-wild-oasis-bookings-app.netlify.app/)
+
+
+
+
