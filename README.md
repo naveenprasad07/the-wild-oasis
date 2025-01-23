@@ -23,13 +23,7 @@
 ### **Backend**
 - **Supabase**: Relational database for managing user, booking, and cabin data.
 
-### **APIs**
-- **RESTful API**: Expose endpoints for all key functionalities like searching cabins, managing bookings, and user authentication.
 
-### **Deployment**
-- **Frontend**: Deployed via Netlify.
-- **Backend**: Hosted on Netlify.
-- **Database**: Supabase
 
 ---
 
