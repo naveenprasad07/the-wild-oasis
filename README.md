@@ -1,4 +1,4 @@
-# 🌴 Wild Oasis Cabin Booking App
+# 🌴 Wild Oasis Cabin Management App
 
 **Wild Oasis** is a user-friendly cabin booking platform designed to provide users with a seamless experience when searching, booking, and managing stays at Wild Oasis cabins. Whether you're planning a solo retreat or a group getaway, Wild Oasis has you covered.
 
@@ -6,7 +6,6 @@
 
 ## 🚀 Features
 
-- **User-Friendly Booking**: Search for available cabins by dates, guest count, and amenities.
 - **Cabin Listings**: View detailed cabin information, including descriptions, photos, and pricing.
 - **Real-Time Availability**: Check cabin availability
 - **User Profiles**: Manage bookings, view history, and save favorite cabins.
@@ -30,7 +29,7 @@
 ## 🌐 Live Demo
 
 Check out the live version of the Wild Oasis Cabin Booking App here:  
-[**Wild Oasis Booking App**](https://the-wild-oasis-bookings-app.netlify.app/)
+[**Wild Oasis Hotel Management App**](https://the-wild-oasis-bookings-app.netlify.app/)
 
 
 
