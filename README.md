@@ -1,4 +1,4 @@
-# Wild Oasis - Hotel Management App
+# Wild Oasis - Hotel Management App 🌴🌴🌴
 
 ## Overview
 Wild Oasis is a hotel management application designed to streamline booking, cabin management, and customer experience. Built with modern web technologies, this app ensures an intuitive and efficient workflow for both guests and administrators.
