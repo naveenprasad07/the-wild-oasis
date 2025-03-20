@@ -18,3 +18,6 @@ Wild Oasis is a hotel management application designed to streamline booking, cab
 - **Forms & Validation**: React Hook Form
 - **Other Utilities**: Date-fns, React Icons, React Hot Toast
 - **Development Tools**: Vite, ESLint, React Query Devtools
+## 🌐 Live Demo
+ Check out the live version of the Wild Oasis Cabin Booking App here:  
+ [**Wild Oasis Hotel Management App**](https://the-wild-oasis-bookings-app.netlify.app/)
